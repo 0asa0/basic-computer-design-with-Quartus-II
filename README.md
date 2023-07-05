@@ -20,7 +20,7 @@ ALU:
 ![ALU_WAWEFORM](https://github.com/0asa0/basic-computer-design-with-Quartus-II/assets/134441532/1202970c-92a1-4481-9926-46d76023ee55)
 
 
-Completed basic computer:
+Completed basic computer :
 
 ![1](https://github.com/0asa0/basic-computer-design-with-Quartus-II/assets/134441532/90a2d4bb-0083-4ad1-9c66-cf493c070405)
 
